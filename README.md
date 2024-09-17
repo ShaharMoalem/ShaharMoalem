@@ -7,14 +7,15 @@
 ---
 
 ### 🙋‍♂️ About Me
- I’m a third-year Software and Computer Engineering student at the Technion, in the Faculty of Electrical and Computer Engineering. I'm passionate about software development and machine learning, and I enjoy exploring new technologies to solve real-world challenges.
+ I’m a third-year Software and Computer Engineering student at the Technion, in the Faculty of Electrical and Computer Engineering. I'm passionate about software development, operating systems and computer architecture, and I enjoy exploring new technologies to solve real-world challenges.
 
 ### 🌱 What I'm Learning
 - Strengthening my skills in multithreaded programming and concurrent systems
+- Enhancing my understanding of operating systems, focusing on processes, memory management, and system calls
 - Exploring advanced concepts in machine learning and their real-world applications
 - Diving deeper into algorithms and data structures to optimize performance and scalability
 - Gaining insights into computer architecture, including CPU design and memory hierarchy
-- Enhancing my understanding of operating systems, focusing on processes, memory management, and system calls
+
 
 ### 🚀 Projects
 Here are some of the projects I've worked on, which showcase my skills and interests in various areas of software development:
