@@ -6,7 +6,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### 🙋🏻‍♀️ About Me
  I’m a third-year Software and Computer Engineering student at the Technion, in the Faculty of Electrical and Computer Engineering. I'm passionate about software development, operating systems and computer architecture, and I enjoy exploring new technologies to solve real-world challenges.
 
 ### 🌱 What I'm Learning
