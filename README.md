@@ -22,7 +22,7 @@ Here are some of the projects I've worked on, which showcase my skills and inter
 
 - **ATM-Banking-System**: Implemented a multi-threaded banking system in C++, using pthreads for concurrent ATM operations including deposits, withdrawals, and transfers. The system features transaction logging and periodic bank commissions, demonstrating my proficiency in concurrent programming and system architecture.
 
-- **Smash Shell** A C-based shell implementation designed to handle both built-in and external commands with advanced job management features. This project demonstrates proficiency in process control, signal handling, and job tracking. The shell includes capabilities for job suspension and resumption, background job management, and supports various built-in commands like cd, pwd, and exit. The implementation leverages POSIX APIs for process and signal management, showcasing expertise in developing a robust, interactive command-line interface.
+- **Smash Shell**: A C-based shell implementation designed to handle both built-in and external commands with advanced job management features. This project demonstrates proficiency in process control, signal handling, and job tracking. The shell includes capabilities for job suspension and resumption, background job management, and supports various built-in commands like cd, pwd, and exit. The implementation leverages POSIX APIs for process and signal management, showcasing expertise in developing a robust, interactive command-line interface.
 
 - **Multithreading Simulator**: Developed a simulator for multithreaded processors in C/C++, supporting Fine-grained and Blocked MT configurations. Features context switching with or without penalties, simulates execution cycles, and adheres to specific memory access patterns. This project demonstrates expertise in CPU simulation, context management, and performance measurement.
 
@@ -31,6 +31,9 @@ Here are some of the projects I've worked on, which showcase my skills and inter
 - **Cache Simulator**: A C-based cache simulator that models a two-level cache system. It supports flexible configuration for cache size, block size, associativity, and access times. The simulator reads memory access traces to compute the miss rates and average access times for both cache levels. Key features include inclusive cache management, LRU eviction policy, and accurate performance metrics calculation.
   
 - **Firewall-Simulation**: This project involves the design and implementation of a firewall simulation tool that emphasizes network security through packet filtering techniques. By utilizing C++ for core functionality and Bash for configuration and management, the simulation effectively mimics the behavior of a real firewall, allowing for customizable rules and traffic management. This project demonstrates my proficiency in network security concepts, C++ programming, and system-level scripting, showcasing my ability to develop practical solutions to complex problems in cybersecurity.
+
+- **Student-Grade-Management-System**: This project involves creating a student grade management system using a linked list Abstract Data Type (ADT) and a shared object library. It features a command-line interface for managing student details and grades, enabling tasks like adding students and calculating averages. Bash is utilized for executing the provided program, enhancing user interaction. This project showcases my skills in C programming, data structures, and modular design.
+
 
 ### 🔧 Languages and Tools
 - **Programming Languages**: C, C++
