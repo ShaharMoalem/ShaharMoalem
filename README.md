@@ -29,7 +29,7 @@ Here are some of the projects I've worked on, which showcase my skills and inter
 - **Branch Predictor Simulator**: A C simulator for a configurable two-level branch predictor. It handles branch prediction using adjustable BTB size, history register size, and tag field size. The simulator predicts branch outcomes and updates the predictor state based on given traces, showcasing advanced skills in branch prediction and memory management.
 
 - **Cache Simulator**: A C-based cache simulator that models a two-level cache system. It supports flexible configuration for cache size, block size, associativity, and access times. The simulator reads memory access traces to compute the miss rates and average access times for both cache levels. Key features include inclusive cache management, LRU eviction policy, and accurate performance metrics calculation.
-- 
+  
 - **Firewall-Simulation**: This project involves the design and implementation of a firewall simulation tool that emphasizes network security through packet filtering techniques. By utilizing C++ for core functionality and Bash for configuration and management, the simulation effectively mimics the behavior of a real firewall, allowing for customizable rules and traffic management. This project demonstrates my proficiency in network security concepts, C++ programming, and system-level scripting, showcasing my ability to develop practical solutions to complex problems in cybersecurity.
 
 ### 🔧 Languages and Tools
